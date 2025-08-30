@@ -97,3 +97,31 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# IDE-specific folders
+.vscode/*
+.idea/*
+.vsconfig
+
+# Baked Unity lighting
+*LightingData.asset*
+
+# Assets that I can't include in the repo
+*.blend1*
+*.mp4*
+*.mp3*
+*.wav*
+*.ogg*
+*.exr*
+*.mdd*
+*/Free_SpeedTrees/
+*/EffectExamples/
+*/Standard Assets/
+*/UnityHDRPSimpleWater by flamacore/
+*/RainMaker/
+*/PolyToots/
+*/Samples/
+*.vdb*
+*.uni*
+**/Annotation*
+**/Lightmap*
